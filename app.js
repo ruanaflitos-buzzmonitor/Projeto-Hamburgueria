@@ -2,7 +2,7 @@
    ⚙️  CONFIGURAÇÕES — edite somente este bloco
 ═══════════════════════════════════════════════════════════════ */
 const CONFIG = {
-  whatsapp: '5571981664170',
+  whatsapp: '557191338710',
   pix: 'Peça a chave Pix ao Atendente e aguarde confirmação do pedido',
   pixTipo: 'Telefone',
   linkCartaoDebito:  'Peça o link de pagamento ao Atendente e aguarde confirmação do pedido',
